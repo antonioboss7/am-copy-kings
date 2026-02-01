@@ -1,4 +1,4 @@
-# AM Copy Kings - Trade Copier 3
+# AM Copy Kings 
 
 Enterprise-grade trade copier with risk management and webhook integration.
 
@@ -13,4 +13,5 @@ Enterprise-grade trade copier with risk management and webhook integration.
 
 1. Install dependencies:
 ```bash
+
 pip install -r requirements.txt
